@@ -23,9 +23,9 @@ The output from each stage of the pipeline is saved in the folder called `output
 
 ### Files 
 
-[Code:](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/P4.ipynb) The project code.
+[Jupyter Notebook](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/P4.ipynb) The step by step development of project code.
 
-[Write-Up:](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) The project report.
+[Project Report](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) The description of project steps.
 
 ### Results
 Following is the video output:
