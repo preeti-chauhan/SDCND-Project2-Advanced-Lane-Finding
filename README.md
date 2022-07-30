@@ -28,8 +28,7 @@ The output from each stage of the pipeline is saved in the folder called `output
 [Project Report](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) The description of project steps.
 
 ### Results
-Following is the video output:
-https://www.youtube.com/watch?v=hkppnXiB2ak&feature=youtu.be
+Following is [this](https://www.youtube.com/watch?v=hkppnXiB2ak&feature=youtu.be) video output:
 
 <img src="images/advanced_lane.png" width="350">
 
