@@ -1,7 +1,7 @@
 
 ## Advanced Lane Finding
 
-## Summary
+### Summary
 
 - Developed a pipeline to find the lane lines in a video from a front-facing camera on a car. 
 - Used distortion correction, perspective transformation, color threshold, gradient transforms.
