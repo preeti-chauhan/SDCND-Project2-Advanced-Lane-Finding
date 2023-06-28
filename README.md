@@ -7,13 +7,13 @@
 - Used distortion correction, perspective transformation, color threshold, gradient transforms.
 - Tested the computer vision pipeline to detect straight and curved lane lines in videos.
 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+### Project
 
 In this project, the goal is to write a software pipeline to identify the lane boundaries in a video.
 
-### Project
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-The goals / steps of this project are the following:
+The steps of this project are as follows:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
