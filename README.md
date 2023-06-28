@@ -1,5 +1,12 @@
 
 ## Advanced Lane Finding
+
+## Summary
+
+- Developed a pipeline to find the lane lines in a video from a front-facing camera on a car. 
+- Used distortion correction, perspective transformation, color threshold, gradient transforms.
+- Tested the computer vision pipeline to detect straight and curved lane lines in videos.
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 In this project, the goal is to write a software pipeline to identify the lane boundaries in a video.
