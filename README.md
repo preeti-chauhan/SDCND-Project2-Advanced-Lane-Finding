@@ -7,6 +7,17 @@
 - Used distortion correction, perspective transformation, color threshold, gradient transforms.
 - Tested the computer vision pipeline to detect straight and curved lane lines in videos.
 
+### Files 
+
+- Project development and code: [P4.ipynb](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/P4.ipynb) 
+
+- Project steps: [writeup_P4.pdf](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) 
+
+### Results
+Following is [this](https://www.youtube.com/watch?v=hkppnXiB2ak&feature=youtu.be) video output:
+
+<img src="images/advanced_lane.png" width="350">
+
 ### Project Overview
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -27,16 +38,7 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 
 The output from each stage of the pipeline is saved in the folder called `output_images`, and a description is included in the writeup for the project of what each image shows.  The video called `project_video.mp4` is the video your pipeline should work well on.  
 
-### Files 
 
-[Jupyter Notebook](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/P4.ipynb) The step by step development of project code.
-
-[Project Report](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) The description of project steps.
-
-### Results
-Following is [this](https://www.youtube.com/watch?v=hkppnXiB2ak&feature=youtu.be) video output:
-
-<img src="images/advanced_lane.png" width="350">
 
 
 
