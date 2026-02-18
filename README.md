@@ -1,5 +1,10 @@
-
 ## Advanced Lane Finding
+
+[![View on nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/P4.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/P4.ipynb)
+[![View Writeup](https://img.shields.io/badge/PDF-Writeup-red?logo=adobe)](https://github.com/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/writeup_P4.pdf)
+
+> **GitHub can't render the notebook?** Click the nbviewer or Colab badge above to view or run it instantly.
 
 ### Summary
 
@@ -9,9 +14,9 @@
 
 ### Files 
 
-- Project development and code: [P4.ipynb](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/P4.ipynb) 
+- Project development and code: [P4.ipynb](https://github.com/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/P4.ipynb) 
 
-- Project steps: [writeup_P4.pdf](https://github.com/preeti-chauhan/SDCND-P4-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) 
+- Project steps: [writeup_P4.pdf](https://github.com/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/writeup_P4.pdf) 
 
 ### Results
 Following is [this](https://www.youtube.com/watch?v=hkppnXiB2ak&feature=youtu.be) video output:
@@ -36,9 +41,4 @@ The steps of this project are as follows:
 
 The images for camera calibration are stored in the folder called `camera_cal`.  The images in `test_images` are for testing the pipeline on single frames.  If you want to extract more test images from the videos, you can simply use an image writing method like `cv2.imwrite()`, i.e., you can read the video in frame by frame as usual, and for frames you want to save for later you can write to an image file.  
 
-The output from each stage of the pipeline is saved in the folder called `output_images`, and a description is included in the writeup for the project of what each image shows.  The video called `project_video.mp4` is the video your pipeline should work well on.  
-
-
-
-
-
+The output from each stage of the pipeline is saved in the folder called `output_images`, and a description is included in the writeup for the project of what each image shows.  The video called `project_video.mp4` is the video your pipeline should work well on.
