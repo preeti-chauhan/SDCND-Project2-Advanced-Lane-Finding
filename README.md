@@ -1,10 +1,7 @@
 ## Advanced Lane Finding
 
-[![View on nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/P4.ipynb)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/P4.ipynb)
 [![View Writeup](https://img.shields.io/badge/PDF-Writeup-red?logo=adobe)](https://github.com/preeti-chauhan/SDCND-Project2-Advanced-Lane-Finding/blob/master/writeup_P4.pdf)
-
-> **GitHub can't render the notebook?** Click the nbviewer or Colab badge above to view or run it instantly.
 
 ### Summary
 
